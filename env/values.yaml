@@ -27,3 +27,7 @@ jenkins:
     Global:
       EnvVars:
         TILLER_NAMESPACE: kube-system
+mongodb:
+  mongodbUsername: "test"
+  mongodbPassword: "test"
+  mongodbDatabase: "testdb"
