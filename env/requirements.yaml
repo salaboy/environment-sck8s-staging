@@ -22,6 +22,6 @@ dependencies:
 - name: showcase-admin-tool
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.58
-- name: tickets-service-metalband
+- name: tickets-service-tangoband
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
